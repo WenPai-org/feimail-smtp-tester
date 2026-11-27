@@ -1,7 +1,7 @@
-# fewmail-smtp-tester
+# feimail-smtp-tester
 ## 开发中，请勿在生产环境使用
 
-飞秒邮箱 FewMail SMTP Tester 自动定时测试 WordPress 邮件发送功能正常可用性。
+飞秒邮箱 FeiMail SMTP Tester 自动定时测试 WordPress 邮件发送功能正常可用性。
 
 SMTP 测试可帮助您主动监控多个 WordPress 网站的电子邮件送达率。这款插件专为开发者和代理机构设计，每周自动从子网站向父网站发送测试邮件，然后使用 IMAP 检查邮件送达情况。
 

@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: FewMail SMTP Tester
+ * Plugin Name: FeiMail SMTP Tester
  * Description: Sends weekly test emails from child sites to a parent site and verifies delivery.
  * Version: 1.0.1
- * Author: FewMail.com
+ * Author: FeiMail.com
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
